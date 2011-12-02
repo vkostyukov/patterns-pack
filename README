@@ -1,0 +1,26 @@
+This is a set of 14 examples of usege design patterns for SourceMaking.com prepeared by Vladimir Kostyukov (see ABOUTME for details).
+
+There are following patterns was included:
+
+     - Builder                       [  Java  ]
+     - Class Adapter                 [  Java  ]                  
+     - Command                       [ Python ]
+     - Composite                     [  Java  ]
+     - Decorator                     [ Python ]
+     - Flyweight                     [  Java  ]
+     - Iterator                      [ Python ]
+     - Observer                      [   C#   ]
+     - Proxy                         [ Python ]
+     - Singletone                    [ Java, Python ]
+     - State                         [ Python ]
+     - Strategy                      [  Java  ]
+     - Template Method               [  Java  ]
+     - Visitor                       [  Java  ]
+
+There are three files in each folder with pattern:
+
+     - README                        readme file with short description of example
+     - OUTPUT                        file with output example  
+     - src.%LANG%                    source code of example in %LANG%
+
+All examples written by Vladimir Kostyukov <vladimir.kostukov@gmail.com>
