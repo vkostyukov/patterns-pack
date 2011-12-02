@@ -1,0 +1,5 @@
+This is an example of applying Builder design pattern for solving problem with many-arguments constructors.
+
+This way has been proposed by Joshua Bloch in book "Effective Java: Programming Language Guide".
+
+
