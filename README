@@ -20,7 +20,5 @@ There are following patterns was included:
 There are three files in each folder with pattern:
 
      - README                        readme file with short description of example
-     - OUTPUT                        file with output example  
-     - src.%LANG%                    source code of example in %LANG%
 
 All examples written by Vladimir Kostyukov <vladimir.kostukov@gmail.com>
