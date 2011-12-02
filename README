@@ -1,4 +1,4 @@
-This is a set of 14 examples of usege design patterns for SourceMaking.com prepeared by Vladimir Kostyukov (see ABOUTME for details).
+This is a set of 15 examples of usege design patterns for SourceMaking.com.
 
 There are following patterns was included:
 
@@ -21,4 +21,4 @@ There are three files in each folder with pattern:
 
      - README                        readme file with short description of example
 
-All examples written by Vladimir Kostyukov <vladimir.kostukov@gmail.com>
+All examples written by Vladimir Kostyukov <vladimir.kostukov@gmail.com>.
